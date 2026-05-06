@@ -434,7 +434,7 @@
                         <a href="add_category.php"><i class="fas fa-folder-plus"></i> Add Category</a>
                         <a href="view_orders.php"><i class="fas fa-shopping-bag"></i> View Orders</a>
                         <a href="edit_product.php"><i class="fas fa-pen-fancy"></i> Quick Edit</a>
-                        <a href="sales_report.php"><i class="fas fa-chart-simple"></i> Sales Report</a>
+                  
                     </div>
                 </li>
 
